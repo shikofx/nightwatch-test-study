@@ -1,9 +1,11 @@
 {
   "name": "nightwatchstudy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create variouse tests with using of Nightwatch framework",
   "main": "championat.js",
   "scripts": {
+    "lint": "eslint .",
+    "debug": "node --inspect-brk node_modules/nightwatch/bin/nightwatch",
     "test": "nightwatch"
   },
   "keywords": [],
@@ -12,6 +14,8 @@
   "dependencies": {},
   "devDependencies": {
     "chromedriver": "^76.0.0",
+    "eslint": "^6.1.0",
     "nightwatch": "^1.2.1"
-  }
+  },
+  "repository": "https://github.com/shikofx/nightwatchstudy.git"
 }
