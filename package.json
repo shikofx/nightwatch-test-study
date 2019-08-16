@@ -1,0 +1,17 @@
+{
+  "name": "nightwatchstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "championat.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "Dzmitry Parkheichuk <shikofx@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.2.1"
+  }
+}
