@@ -15,7 +15,7 @@
   "devDependencies": {
     "chromedriver": "^76.0.0",
     "eslint": "^6.1.0",
-    "nightwatch": "^1.2.1"
+    "nightwatch": "^1.7.13"
   },
   "repository": "https://github.com/shikofx/nightwatchstudy.git"
 }
